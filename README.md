@@ -12,7 +12,7 @@ A data enthusiast passionate about turning raw data into actionable insights. I 
 ## Projects
 
 1. [Flight Delay Analysis](https://github.com/yourusername/flight-delay-analysis)
-   - Analyzed hourly and route-based delay patterns to reveal congestion periods.  
+   - Analyzed hourly and route-based delay patterns to reveal congestion periods.   
 
 2. [Pizza Sales Dashboard](https://github.com/Afzaaqilah21/Pizza_sales_analysis)
    - Identified top and bottom-selling pizzas and created a Power BI dashboard for insights.
