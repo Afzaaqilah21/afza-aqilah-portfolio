@@ -1,5 +1,5 @@
 # Hi, I'm Afza Aqilah 👋  
-Aspiring Data Analyst & Data Scientist | SQL • Python • Power BI | Analytics Enthusiast
+Aspiring Data Analyst & Data Scientist | SQL • Power BI | Analytics Enthusiast
 
 ## About Me / Executive Summary
 A data enthusiast passionate about turning raw data into actionable insights. I enjoy exploring patterns, visualizing data, and solving real-world problems using SQL, Excel, Power BI, and RStudio. This portfolio showcases my hands-on projects and analytical skills.  
